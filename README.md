@@ -22,11 +22,8 @@ _____________________________
 
 ***Menu***
 ========================
-<<<<<<< HEAD
+
 1. falafel sandwich 
 2. fool sandwic
 3. falafel
 4. Hummus 
-=======
-
->>>>>>> ea278f1e65ac64193c3e9bda3d5aac7e5a020512
