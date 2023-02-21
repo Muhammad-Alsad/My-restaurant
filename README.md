@@ -1,3 +1,6 @@
 # My-restaurant
 
-***Welcome to my restaurant*** 
+***Welcome to my Falafel-House*** 
+
+***Menu***
+========================
